@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "Alx School is so cool!"
 
+=======
+#!/bin/bash echo "Alx"
+>>>>>>> parent of acec022... starting to code today, so cool
